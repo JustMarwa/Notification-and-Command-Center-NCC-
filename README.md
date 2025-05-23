@@ -1,2 +1,4 @@
 # Notification-and-Command-Center-NCC-
-Notification Subsystem of the Penguin Deterrence Project
+The NCC subsystem is a Notification-Based Subsystem forming an integral part of the Penguin Deterrence Project for EEE4113.
+
+Other Subsytems are the Sensing subsystem and the Deterrence subsystem.
