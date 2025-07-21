@@ -25,9 +25,6 @@ const char* password = "12345678";
 //#define SMTP_HOST "smtp.gmail.com"
 //#define SMTP_PORT 587
 //#define SMTP_PORT (SSL) 465
-//#define AUTHOR_EMAIL "eee4113group17@gmail.com"       //pass 123group17
-//#define AUTHOR_PASSWORD "123group17"
-//#define RECIPIENT_EMAIL "christinawardenemail@gmail.com"  //pass 123christina
 //Predator Text
 #define PREDATOR_TEXT "Predator attack"
 
